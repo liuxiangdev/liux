@@ -1,0 +1,5 @@
+1、SSH密钥生成
+ssh-keygen -t ed25519 -C "2683448294@qq.com"
+2、查看密钥
+cat /c/Users/Administrator/.ssh/id_ed25519.pub
+3、复制粘贴到GITHUB
